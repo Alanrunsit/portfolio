@@ -1,0 +1,6 @@
+diary = open("diary.txt", "w")
+diary.write("Dear Diary,\nI will get into a top 20 university!\n")
+diary.write("Dear Diary,\nI will work that internship in China this Summer!\n")
+diary.write("Dear Diary,\nI will get into that Summer Program!\n")
+diary.write("Dear Diary,\nI will get first chair!\n")
+diary.close()
